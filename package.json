@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kangfarih/mongodb-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/kangfarih/mongodb-playground/issues"
+  },
+  "homepage": "https://gitlab.com/kangfarih/mongodb-playground#readme",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "mongoose": "^5.11.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
