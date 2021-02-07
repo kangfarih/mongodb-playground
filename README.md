@@ -6,4 +6,4 @@
 
 ---
 
-[x] Success Mirror push from Gitlab to Github 
+[x] Success Automaticly Mirror push from Gitlab to Github 
