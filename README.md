@@ -6,4 +6,4 @@
 
 ---
 
-[x] Integrated With Github
+[x] Success Mirror push from Gitlab to Github 
